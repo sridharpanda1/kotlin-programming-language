@@ -4,7 +4,7 @@ fun arithmeticOperations(){
     functionFileName("Arithmetic Operation Program")
 
     val x = 20
-    val y = 10
+    val y = 6
 
     println("Addition operation: $x + $y = ${x+y} ")
     dottedSeparator()
