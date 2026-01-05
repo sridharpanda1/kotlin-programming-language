@@ -4,4 +4,5 @@ package org.example
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 fun main() {
     helloWorld("Sridhar Panda")
+    employeeDetails("Sridhar", "Panda", 25, 80000.0)
 }
