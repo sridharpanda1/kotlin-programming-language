@@ -1,5 +1,5 @@
 package org.example
 
-fun helloWorld() {
-    println("Hello World")
+fun helloWorld(name : String) {
+    println("Hello $name, Welcome to Kotlin World")
 }
