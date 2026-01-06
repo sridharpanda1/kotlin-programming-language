@@ -8,4 +8,6 @@ fun main() {
     arithmeticOperations()
     unaryOperations()
     comparisonOperations()
+    logicalOperations()
+
 }
