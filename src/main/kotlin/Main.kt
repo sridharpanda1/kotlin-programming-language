@@ -15,5 +15,7 @@ fun main() {
     rangeOperations()
     indexOperations()
     inOperatorOperations()
+    bitwiseOperations()
+
 
 }
