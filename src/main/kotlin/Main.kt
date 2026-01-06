@@ -6,4 +6,5 @@ fun main() {
     helloWorld("Sridhar Panda")
     employeeDetails("Sridhar", "Panda", 25, 80000.0)
     arithmeticOperations()
+    unaryOperations()
 }
