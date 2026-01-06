@@ -14,4 +14,6 @@ fun main() {
     nullSafetyOperations()
     rangeOperations()
     indexOperations()
+    inOperatorOperations()
+
 }
