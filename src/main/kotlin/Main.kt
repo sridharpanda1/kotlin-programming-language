@@ -16,6 +16,7 @@ fun main() {
     indexOperations()
     inOperatorOperations()
     bitwiseOperations()
+    stringConcatenationOperation()
 
 
 }
