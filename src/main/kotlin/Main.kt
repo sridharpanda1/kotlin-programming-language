@@ -11,4 +11,5 @@ fun main() {
     logicalOperations()
     assignmentOperations()
     typeCheckAndCastOperations()
+    nullSafetyOperations()
 }
