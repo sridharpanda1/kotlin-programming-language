@@ -8,7 +8,5 @@ fun main() {
     arithmeticOperations()
     unaryOperations()
     comparisonOperations()
-    logicalOperations()
-    assignmentOperations()
-
+    typeCheckAndCastOperations()
 }
