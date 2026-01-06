@@ -13,4 +13,5 @@ fun main() {
     typeCheckAndCastOperations()
     nullSafetyOperations()
     rangeOperations()
+    indexOperations()
 }
