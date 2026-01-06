@@ -1,4 +1,7 @@
-package org.example
+package org.example.operations
+
+import org.example.helper.dottedSeparator
+import org.example.helper.functionFileName
 
 fun rangeOperations() {
     functionFileName("Range Operation Program")

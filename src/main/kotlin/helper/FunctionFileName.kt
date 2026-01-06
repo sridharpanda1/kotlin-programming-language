@@ -1,4 +1,4 @@
-package org.example
+package org.example.helper
 
 fun functionFileName(functionName: String){
     equalSeparator()

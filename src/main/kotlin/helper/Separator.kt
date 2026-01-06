@@ -1,4 +1,4 @@
-package org.example
+package org.example.helper
 
 fun dottedSeparator(){
     println("-".repeat(51))

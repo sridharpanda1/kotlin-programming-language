@@ -1,5 +1,8 @@
 package org.example
 
+import org.example.helper.dottedSeparator
+import org.example.helper.functionFileName
+
 fun employeeDetails(firstName: String = "DefaultName", lastName: String = "DefaultSurname", age: Int = 25, salary: Double = 70000.0) {
     functionFileName("Val and Var Program")
 

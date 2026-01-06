@@ -1,4 +1,7 @@
-package org.example
+package org.example.operations
+
+import org.example.helper.dottedSeparator
+import org.example.helper.functionFileName
 
 fun assignmentOperations() {
     functionFileName("Assignment Operation Program")
