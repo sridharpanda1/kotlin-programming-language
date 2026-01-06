@@ -7,4 +7,5 @@ fun main() {
     employeeDetails("Sridhar", "Panda", 25, 80000.0)
     arithmeticOperations()
     unaryOperations()
+    comparisonOperations()
 }
