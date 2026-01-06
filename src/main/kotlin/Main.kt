@@ -9,5 +9,6 @@ fun main() {
     unaryOperations()
     comparisonOperations()
     logicalOperations()
+    assignmentOperations()
 
 }
