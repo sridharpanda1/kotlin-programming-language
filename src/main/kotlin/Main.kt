@@ -17,6 +17,7 @@ fun main() {
     inOperatorOperations()
     bitwiseOperations()
     stringConcatenationOperation()
+    stringRepetitionOperation()
 
 
 }
