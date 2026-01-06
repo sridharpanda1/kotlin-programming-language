@@ -12,4 +12,5 @@ fun main() {
     assignmentOperations()
     typeCheckAndCastOperations()
     nullSafetyOperations()
+    rangeOperations()
 }
